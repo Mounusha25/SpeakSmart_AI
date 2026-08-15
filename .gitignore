@@ -1,0 +1,14 @@
+node_modules/
+.env
+.env.local
+.env*.local
+dist/
+build/
+*.log
+.DS_Store
+SparkAI_Frontend/node_modules/
+SparkAI_Frontend/server/node_modules/
+r3f-virtual-girlfriend-backend/node_modules/
+r3f-virtual-girlfriend-backend/audios/*.mp3
+r3f-virtual-girlfriend-backend/audios/*.wav
+r3f-virtual-girlfriend-backend/audios/*.json
