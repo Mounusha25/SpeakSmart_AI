@@ -240,7 +240,7 @@ SpeakAI/
 
 ## 📄 License
 
-MIT © Brijesh Kumar
+MIT © Mounusha Metti
 
 ---
 
